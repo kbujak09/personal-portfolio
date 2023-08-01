@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.menu {
+  border: 0;
+  background-color: white;
+}
+
+@media (max-width: 599px) {
+  .header {
+    margin: 0 4px;
+  }
+  .logoIcon {
+    width: 28px;
+  }
+  .menuIcon {
+    width: 20px;
+  }
+}
