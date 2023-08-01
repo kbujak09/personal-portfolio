@@ -15,15 +15,14 @@
   }
   .projectImage {
     width: 100%;
-    border-top: 2px solid black;
-    border-bottom: 2px solid black;
+    border: 12px solid black;
   }
   .projectImageDiv {
     width: 100%;
   }
   .projectTitle {
-    font-size: 1.2rem;
-    font-weight: 300;
-    padding: 1rem 0 4rem 0;
+    font-size: 1.4rem;
+    font-weight: 700;
+    margin: 1rem 0 1.6rem 0;
   }
 }
