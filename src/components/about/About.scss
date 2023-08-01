@@ -1,0 +1,49 @@
+.about {
+  background-color: black;
+  color: white;
+  font-family: 'Roboto';
+  margin-bottom: 1.8rem;
+}
+.aboutTitle {
+  text-align: center;
+  font-weight: 500;
+}
+.aboutText {
+  text-align: justify;
+  font-weight: 300;
+}
+.aboutTitle, .aboutText {
+  animation: appear 1s ease-out forwards;
+}
+@keyframes appear {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 100%;
+  }
+}
+@media (max-width: 599px) {
+  .about {
+    padding: 2.4rem 5.4rem;
+  }
+  .aboutTitle {
+    font-size: 1.8rem;
+    padding-bottom: 1.6rem;
+  }
+  .aboutText {
+    font-size: 1.6rem;
+  }
+}
+@media (min-width: 600px) {
+  .about {
+    padding: 2.4rem 8rem;
+  }
+  .aboutTitle {
+    font-size: 2.2rem;
+    padding-bottom: 2.2rem;
+  }
+  .aboutText {
+    font-size: 1.8rem;
+  }
+}

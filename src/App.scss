@@ -1,4 +1,12 @@
-.container {
-  display: flex;
-  align-items: center;
+* {
+  box-sizing: border-box;
+  font-size: 10px;
+  overflow-x: hidden;
+  font-family: 'Roboto Slab', sans-serif;
+}
+
+@media (max-width: 599px) {
+  body {
+    margin: 0;
+  }
 }
