@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.31ad7a25.css",
-    "main.js": "/personal-portfolio/static/js/main.c7eb0b41.js",
+    "main.css": "/personal-portfolio/static/css/main.d0518227.css",
+    "main.js": "/personal-portfolio/static/js/main.7c5b609d.js",
     "static/media/youtube.jpg": "/personal-portfolio/static/media/youtube.091072134f5453e971b3.jpg",
     "static/media/memory-card.jpg": "/personal-portfolio/static/media/memory-card.f8c0b5a2d8f7108eeda2.jpg",
     "static/media/wheres-waldo.jpg": "/personal-portfolio/static/media/wheres-waldo.3d5bcda8c2206c6fea28.jpg",
@@ -10,11 +10,11 @@
     "static/media/webDevIcon.svg": "/personal-portfolio/static/media/webDevIcon.994b7e453735391bd0c75bffdf8f05fe.svg",
     "index.html": "/personal-portfolio/index.html",
     "static/media/menuIcon.svg": "/personal-portfolio/static/media/menuIcon.dd92aed316c5967acbf1f7094cd87de4.svg",
-    "main.31ad7a25.css.map": "/personal-portfolio/static/css/main.31ad7a25.css.map",
-    "main.c7eb0b41.js.map": "/personal-portfolio/static/js/main.c7eb0b41.js.map"
+    "main.d0518227.css.map": "/personal-portfolio/static/css/main.d0518227.css.map",
+    "main.7c5b609d.js.map": "/personal-portfolio/static/js/main.7c5b609d.js.map"
   },
   "entrypoints": [
-    "static/css/main.31ad7a25.css",
-    "static/js/main.c7eb0b41.js"
+    "static/css/main.d0518227.css",
+    "static/js/main.7c5b609d.js"
   ]
 }
