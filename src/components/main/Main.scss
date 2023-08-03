@@ -1,1 +1,17 @@
-
+@media (min-width: 1200px) {
+  .main {
+    display: grid;
+    grid-template-rows: 1fr max-content;
+    grid-template-columns: 2fr 3fr;
+    margin-top: 1.5rem;
+  }
+  .name {
+    grid-column: 1 / 2;
+  }
+  .about {
+    align-self: baseline;
+  }
+  .projects {
+    grid-column: 1 / 3;
+  }
+}

@@ -2,15 +2,19 @@
   background-color: black;
   color: white;
   font-family: 'Roboto';
-  margin-bottom: 1.8rem;
+  margin-bottom: 2rem;
+  padding: 2.4rem 5.4rem;
 }
 .aboutTitle {
   text-align: center;
   font-weight: 500;
+  font-size: 1.8rem;
+  padding-bottom: 1.6rem;
 }
 .aboutText {
   text-align: justify;
   font-weight: 300;
+  font-size: 1.6rem;
 }
 .aboutTitle, .aboutText {
   animation: appear 1s ease-out forwards;
@@ -23,27 +27,22 @@
     opacity: 100%;
   }
 }
-@media (max-width: 599px) {
-  .about {
-    padding: 2.4rem 5.4rem;
-  }
-  .aboutTitle {
-    font-size: 1.8rem;
-    padding-bottom: 1.6rem;
-  }
-  .aboutText {
-    font-size: 1.6rem;
-  }
-}
 @media (min-width: 600px) {
   .about {
     padding: 2.4rem 8rem;
   }
   .aboutTitle {
-    font-size: 2.2rem;
-    padding-bottom: 2.2rem;
+    font-size: 2rem;
+    padding-bottom: 2rem;
   }
   .aboutText {
-    font-size: 1.8rem;
+    font-size: 1.6rem;
+  }
+}
+@media (min-width: 1200px) {
+  .about {
+    margin: 1rem 4rem;
+    padding: 2.4rem 12rem;
+    letter-spacing: 1.5px;
   }
 }

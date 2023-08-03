@@ -4,9 +4,11 @@
   overflow-x: hidden;
   font-family: 'Roboto Slab', sans-serif;
 }
-
-@media (max-width: 599px) {
-  body {
-    margin: 0;
+body {
+  margin: 0;
+}
+@media (min-width:1200px) {
+  .main {
+    margin: 0 12vw;
   }
 }
