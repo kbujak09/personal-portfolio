@@ -3,12 +3,12 @@ import './Main.scss';
 import About from '../about/About';
 import Projects from '../projects/Projects';
 
-const Main = () => {
+const Main = ({isDark}) => {
   return (
-    <main className='main'>
+    <main className={`main ${isDark? 'dark-mode' : ''}`}>
       <Name />
       <About />
-      <Projects />
+      <Projects isDark={isDark}/>
     </main>
   )
 }

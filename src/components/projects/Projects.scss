@@ -17,7 +17,7 @@
 }
 .project {
   margin: 1.2rem;
-  box-shadow: 0 0 5px 3px rgb(139, 139, 139);
+  box-shadow: 0 0 5px 1px rgb(139, 139, 139);
 }
 .projectTitle {
   font-size: 2rem;
@@ -28,15 +28,20 @@
   padding: 1rem 4rem;
   text-align: center;
   font-size: 1.6rem;
-  color: rgb(39, 39, 39);
+}
+.projects {
+  margin-bottom: 4rem;
 }
 @media (min-width: 1200px) {
   .projectsTitle {
-    margin: 3rem;
+    margin: 4rem;
     font-size: 2.8rem;
   }
   .projectsGrid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(600px, 1fr));
+  }
+  .projectText {
+    padding: 1.4rem 6rem; 
   }
 }

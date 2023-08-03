@@ -5,8 +5,6 @@ import youtube from '../../assets/youtube.jpg';
 import cart from '../../assets/computer-shop.jpg';
 import memory from '../../assets/memory-card.jpg';
 import waldo from '../../assets/wheres-waldo.jpg';
-import { Carousel } from 'react-responsive-carousel';
-import "react-responsive-carousel/lib/styles/carousel.min.css";
 
 
 

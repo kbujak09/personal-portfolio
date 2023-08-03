@@ -1,4 +1,4 @@
-const Project = ({src, title}) => {
+const Project = ({src, title, isDark}) => {
   return (
     <div className="project">
       <div className="projectImageDiv"><img src={src} alt={src} className='projectImage'/></div>

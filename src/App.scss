@@ -7,6 +7,15 @@
 body {
   margin: 0;
 }
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+.dark-mode-icon {
+  filter: brightness(0%) saturate(0%) contrast(1000%) invert(100%);
+  -webkit-filter: brightness(0%) saturate(0%) contrast(1000%) invert(100%);
+  -moz-filter: brightness(0%) saturate(0%) contrast(1000%) invert(100%);
+}
 @media (min-width:1200px) {
   .main {
     margin: 0 12vw;
