@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.9c69de2e.css",
-    "main.js": "/personal-portfolio/static/js/main.82991737.js",
+    "main.css": "/personal-portfolio/static/css/main.c117e98a.css",
+    "main.js": "/personal-portfolio/static/js/main.dd740280.js",
     "static/media/youtube.jpg": "/personal-portfolio/static/media/youtube.091072134f5453e971b3.jpg",
     "static/media/wheres-waldo.jpg": "/personal-portfolio/static/media/wheres-waldo.a1d90d1d09105d7b77b8.jpg",
     "static/media/memory-card.jpg": "/personal-portfolio/static/media/memory-card.f8c0b5a2d8f7108eeda2.jpg",
@@ -20,11 +20,11 @@
     "static/media/html.svg": "/personal-portfolio/static/media/html.0107c93943a8f415b5db64ebb0a9d12d.svg",
     "static/media/email.svg": "/personal-portfolio/static/media/email.51013344a07c496679158e9a7cf9940d.svg",
     "static/media/dark_mode.svg": "/personal-portfolio/static/media/dark_mode.769999b979ef5551bc677b60d599e3c7.svg",
-    "main.9c69de2e.css.map": "/personal-portfolio/static/css/main.9c69de2e.css.map",
-    "main.82991737.js.map": "/personal-portfolio/static/js/main.82991737.js.map"
+    "main.c117e98a.css.map": "/personal-portfolio/static/css/main.c117e98a.css.map",
+    "main.dd740280.js.map": "/personal-portfolio/static/js/main.dd740280.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c69de2e.css",
-    "static/js/main.82991737.js"
+    "static/css/main.c117e98a.css",
+    "static/js/main.dd740280.js"
   ]
 }
