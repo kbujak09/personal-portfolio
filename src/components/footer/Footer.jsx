@@ -1,8 +1,11 @@
 import './Footer.scss';
+import Contact from '../contact/Contact';
 
 const Footer = () => {
   return (
-    <div className="footer">Kacper Bujak</div>
+    <footer className='footer'>
+      <Contact />
+    </footer>
   )
 }
 

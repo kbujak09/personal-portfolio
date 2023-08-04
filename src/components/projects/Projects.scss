@@ -21,7 +21,7 @@ a {
 }
 .project {
   margin: 1.2rem;
-  box-shadow: 0 0 4px 1px rgb(53, 53, 53);
+  box-shadow: 0 0 4px 1px rgb(101, 101, 101);
 }
 .projectTitle {
   font-size: 2rem;
@@ -46,9 +46,6 @@ a {
   from {
     opacity: 0;
   }
-  75% {
-    opacity: 40%;
-  }
   to {
     opacity: 100%;
   }
@@ -60,7 +57,7 @@ a {
   }
   .projectsGrid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(600px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
   }
   .projectText {
     padding: 1.4rem 6rem; 

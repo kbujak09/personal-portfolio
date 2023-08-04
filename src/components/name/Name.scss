@@ -1,5 +1,5 @@
 .name {
-  padding: 2rem 4rem;
+  padding: 2rem 2rem;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -56,7 +56,7 @@
 @media (min-width: 1200px) {
  .name {
   justify-content: center;
-  margin-left: 8rem;
+  margin-left: 4rem;
  } 
 }
 

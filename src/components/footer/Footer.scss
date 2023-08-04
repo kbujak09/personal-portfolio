@@ -1,7 +1,12 @@
 .footer {
-  height: 6rem;
+  display: flex;
+  justify-content: center;
+  background-color: black;
+}
+.footerText {
   background-color: black;
   color: white;
+  height: 6rem;
   font-size: 1.2rem;
   font-weight: 300;
   display: flex;

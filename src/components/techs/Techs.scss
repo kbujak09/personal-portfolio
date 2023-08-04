@@ -1,5 +1,5 @@
 .techs {
-  margin: 4rem 0 2rem 0;
+  margin: 4rem 1rem 2rem 1rem;
   display: flex;
   grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr));
   gap: 6rem;
@@ -18,4 +18,15 @@
   filter: brightness(0%) saturate(0%) contrast(1000%) invert(100%);
   -webkit-filter: brightness(0%) saturate(0%) contrast(1000%) invert(100%);
   -moz-filter: brightness(0%) saturate(0%) contrast(1000%) invert(100%);
+}
+.techs{
+  animation: appearTechs 1s ease-out forwards;
+}
+@keyframes appearTechs {
+  from {
+    transform: translateY(50%);
+  }
+  to {
+    transform: translateY(0);
+  }
 }
