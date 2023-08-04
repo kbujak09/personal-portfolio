@@ -1,0 +1,21 @@
+.techs {
+  margin: 4rem 0 2rem 0;
+  display: flex;
+  grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr));
+  gap: 6rem;
+  flex-wrap: wrap;
+  grid-column: 1 / 3;
+  justify-content: center;
+  align-items: center;
+}
+.tech {
+  width: 8rem;
+}
+.techImage {
+  width: 100%;
+}
+.main.dark-mode > .techs > .tech.black {
+  filter: brightness(0%) saturate(0%) contrast(1000%) invert(100%);
+  -webkit-filter: brightness(0%) saturate(0%) contrast(1000%) invert(100%);
+  -moz-filter: brightness(0%) saturate(0%) contrast(1000%) invert(100%);
+}

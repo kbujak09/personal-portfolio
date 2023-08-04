@@ -1,3 +1,7 @@
+a {
+  text-decoration: none;
+  color: black;
+}
 .projectsTitle {
   text-align: center;
   font-size: 2.4rem;
@@ -17,7 +21,7 @@
 }
 .project {
   margin: 1.2rem;
-  box-shadow: 0 0 5px 1px rgb(139, 139, 139);
+  box-shadow: 0 0 4px 1px rgb(53, 53, 53);
 }
 .projectTitle {
   font-size: 2rem;
@@ -31,6 +35,23 @@
 }
 .projects {
   margin-bottom: 4rem;
+}
+.main.dark-mode > .projects > .projectsGrid > a {
+  color: white;
+}
+.projects {
+  animation: appear 1s ease-out forwards;
+}
+@keyframes appear {
+  from {
+    opacity: 0;
+  }
+  75% {
+    opacity: 40%;
+  }
+  to {
+    opacity: 100%;
+  }
 }
 @media (min-width: 1200px) {
   .projectsTitle {
