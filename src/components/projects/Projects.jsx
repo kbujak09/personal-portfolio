@@ -6,6 +6,7 @@ import cart from '../../assets/computer-shop.jpg';
 import memory from '../../assets/memory-card.jpg';
 import waldo from '../../assets/wheres-waldo.jpg';
 import club from '../../assets/private-club.jpg';
+import blog from '../../assets/blog.jpg';
 
 
 
@@ -21,6 +22,7 @@ const Projects = () => {
           <Project title={'Memory Card'} description={'Simple game where you have to click every time a different character to score.'} link={'https://kbujak09.github.io/memory-card/'} src={memory}/>
           <Project title={'Battleship'} description={'Classic battleship game with randomly placed ships versus computer which makes random moves.'} link={'https://kbujak09.github.io/battleship/'} src={battleship}/>
           <Project title={'Private Club'} description={'Simple Express JS app connected with MongoDB, which contains user authentication needed to see created by users messages.'} link={'https://github.com/kbujak09/private-club'} src={club}/>
+          <Project title={'Blog'} description={'Express and React full stack blog app with user authentication, where you can like and comment posts.'} link={'https://kbujak09.github.io/blog'} src={blog}/>
         </div>
     </section>
   )
