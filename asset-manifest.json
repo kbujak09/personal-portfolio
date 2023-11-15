@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.1ffbd805.css",
-    "main.js": "/personal-portfolio/static/js/main.4aa11f55.js",
+    "main.js": "/personal-portfolio/static/js/main.c265f21f.js",
     "static/media/youtube.jpg": "/personal-portfolio/static/media/youtube.091072134f5453e971b3.jpg",
     "static/media/wheres-waldo.jpg": "/personal-portfolio/static/media/wheres-waldo.a1d90d1d09105d7b77b8.jpg",
     "static/media/memory-card.jpg": "/personal-portfolio/static/media/memory-card.f8c0b5a2d8f7108eeda2.jpg",
@@ -9,7 +9,7 @@
     "static/media/blog.jpg": "/personal-portfolio/static/media/blog.db0f74fa11ab64e246dd.jpg",
     "static/media/battleship.jpg": "/personal-portfolio/static/media/battleship.e19d6507fa0e08d63f6a.jpg",
     "static/media/private-club.jpg": "/personal-portfolio/static/media/private-club.b5605304b3ec85660742.jpg",
-    "static/media/chattin.jpg": "/personal-portfolio/static/media/chattin.7f67acb5b71e6bc6e12c.jpg",
+    "static/media/chattin.jpg": "/personal-portfolio/static/media/chattin.2ea184bac7835504953a.jpg",
     "static/media/react.svg": "/personal-portfolio/static/media/react.f57b349b4d9df56c9b48c916a8d5adfb.svg",
     "static/media/webDevIcon.svg": "/personal-portfolio/static/media/webDevIcon.994b7e453735391bd0c75bffdf8f05fe.svg",
     "static/media/github.svg": "/personal-portfolio/static/media/github.5531be85d7a8d6f333e5c7136944a022.svg",
@@ -27,10 +27,10 @@
     "static/media/email.svg": "/personal-portfolio/static/media/email.3cf883bddfc5c7f44a63b00c74289591.svg",
     "static/media/dark_mode.svg": "/personal-portfolio/static/media/dark_mode.769999b979ef5551bc677b60d599e3c7.svg",
     "main.1ffbd805.css.map": "/personal-portfolio/static/css/main.1ffbd805.css.map",
-    "main.4aa11f55.js.map": "/personal-portfolio/static/js/main.4aa11f55.js.map"
+    "main.c265f21f.js.map": "/personal-portfolio/static/js/main.c265f21f.js.map"
   },
   "entrypoints": [
     "static/css/main.1ffbd805.css",
-    "static/js/main.4aa11f55.js"
+    "static/js/main.c265f21f.js"
   ]
 }
