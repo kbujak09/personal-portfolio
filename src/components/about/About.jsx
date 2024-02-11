@@ -5,8 +5,9 @@ const About = () => {
     <article className="about">
       <div className="aboutTitle">About</div>
       <div className="aboutText">
-        Self-Taught Web Developer since december 2022 driven mainly by The Odin Project. Mostly creating front-end 
-        functionality with React so far (August 2023), but looking forward to learn Node and Express JS.   
+        Self-taught web developer since december 2022 driven mainly by The Odin Project. 
+        Focused mainly on React but later on, I've learned Express.js and built some fullstack apps. 
+        Currently working on social media app like facebook/twitter, looking forward to learn TypeScript and Nextjs.
       </div>
     </article>
   )
