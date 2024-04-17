@@ -17,7 +17,7 @@ const Projects = () => {
     <section className="projects">
       <div className="projectsTitle">Projects</div>
         <div className="projectsGrid">
-          <Project title={'Chatting app'} description={'Real-time chatting app made in React and Express with Socket.io'} src={chattin} link={'https://kbujak09.github.io/chatting-app-frontend/'}/>
+          <Project title={'Chatting app'} description={'Real-time chatting app made in React and Express with Socket.io'} src={chattin} link={'https://kbujak09.github.io/chatting-app/'}/>
           <Project title={'Youtube-copy'} description={'Copy of the most popular video website in the world, able to play videos from homepage or search engine and recommend similar videos next to currently playing. Created with Youtube Data API v3.'} link={'https://kbujak09.github.io/youtube-copy/'} src={youtube}/>
           <Project title={'Blog'} description={'Express and React full stack blog app with user authentication, where you can like and comment posts.'} link={'https://kbujak09.github.io/blog'} src={blog}/>
           <Project title={"Where's Waldo"} description={'Game where you have to find all given characters on image and after that you can save your score with nickname to leaderboard with data stored in Firebase.'} link={'https://kbujak09.github.io/wheres-waldo/'} src={waldo}/>
